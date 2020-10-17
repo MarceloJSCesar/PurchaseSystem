@@ -21,6 +21,9 @@ double wallet = 36.3;
 bool condition = true;
 
 main() {
+
+  print('The Comands of this purchase System \n print -> to show up all your items in your cart; \n remove -> to remove items that you bought; \n wallet -> to show how much money you got; \n add ->  to add items in your cart; \n buy -> to buy items added in your cart; \n close -> to finish the purchase; \n total -> to show all the things that you bought following by their prices; \n price - to see the all items and i how much he it is \n \n');
+
   print('==== Welcome To FruitStore =====');
   print('\n');
 
