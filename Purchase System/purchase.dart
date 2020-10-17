@@ -129,8 +129,8 @@ Wallet() {
 }
 
 Buy() {
-  TakeOutMoney();
   print('==== Bought Correctly ====');
+  TakeOutMoney();
 }
 
 TakeOutMoney() {
